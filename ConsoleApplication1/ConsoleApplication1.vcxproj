@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="c_Dice.cpp" />
+    <ClCompile Include="c_DiceSet.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="c_Dice.h" />
+    <ClInclude Include="c_DiceSet.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

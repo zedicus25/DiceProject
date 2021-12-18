@@ -21,9 +21,15 @@
     <ClCompile Include="c_Dice.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="c_DiceSet.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="c_Dice.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="c_DiceSet.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
